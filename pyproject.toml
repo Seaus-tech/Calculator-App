@@ -4,9 +4,7 @@ version = "1.0.0"
 description = "A natural-language, fraction-aware, meme-enabled calculator."
 requires-python = ">=3.10"
 
-# This tells pip where your code lives
 packages = ["calc_app"]
 
-# This creates a command-line tool called `calc-app`
 [project.scripts]
 calc-app = "app:main"

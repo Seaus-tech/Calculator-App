@@ -1,3 +1,0 @@
-#!/bin/bash
-cd ~/applications/Calculator
-osascript -e 'tell application "Terminal" to do script "python3 ~/applications/Calculator/calc_app.py"'
