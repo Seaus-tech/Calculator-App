@@ -1,5 +1,4 @@
-# app.py
-from aurora_calc.core import main
+from calc_app.core import main
 
 if __name__ == "__main__":
     main()
