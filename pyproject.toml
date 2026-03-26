@@ -1,0 +1,7 @@
+[project]
+name = "aurora-calculator"
+version = "1.0.0"
+requires-python = ">=3.10"
+
+[project.scripts]
+aurora-calc = "app:main"

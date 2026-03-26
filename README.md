@@ -1,6 +1,6 @@
-This is my first Application using Kiro.Dev
+# Aurora Calculator
 
-Commands for future updates:
-git add .
-git commit -m "Description of changes"
-git push
+A natural-language, fraction-aware, meme-enabled calculator.
+
+Run with:
+    aurora-calc
