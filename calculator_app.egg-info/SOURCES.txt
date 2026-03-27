@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+calc_app/__init__.py
+calc_app/core.py
+calc_app/evaluator.py
+calc_app/fractions.py
+calc_app/meme.py
+calc_app/parser.py
+calc_app/solver.py
+calc_app/variables.py
+calculator_app.egg-info/PKG-INFO
+calculator_app.egg-info/SOURCES.txt
+calculator_app.egg-info/dependency_links.txt
+calculator_app.egg-info/entry_points.txt
+calculator_app.egg-info/top_level.txt
