@@ -1,6 +1,7 @@
 README.md
 pyproject.toml
 calc_app/__init__.py
+calc_app/app.py
 calc_app/core.py
 calc_app/evaluator.py
 calc_app/fractions.py

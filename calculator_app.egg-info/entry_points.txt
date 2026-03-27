@@ -1,2 +1,2 @@
 [console_scripts]
-calc-app = app:main
+calc-app = calc_app.app:main
