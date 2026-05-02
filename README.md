@@ -2,5 +2,14 @@
 
 A natural-language, fraction-aware, meme-enabled calculator.
 
-Run with:
-    calc-app
+## Installation
+
+```bash
+pipx install seaus-calc
+```
+
+## Usage
+
+```bash
+calc-app
+```

@@ -3,10 +3,11 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "calculator-app"
+name = "seaus-calc"
 version = "1.0.0"
 description = "A natural-language, fraction-aware, meme-enabled calculator."
 requires-python = ">=3.10"
+dependencies = ["setuptools"]
 
 [project.scripts]
 calc-app = "calc_app.app:main"
