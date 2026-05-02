@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+calc_app/__init__.py
+calc_app/app.py
+calc_app/core.py
+calc_app/evaluator.py
+calc_app/fractions.py
+calc_app/meme.py
+calc_app/parser.py
+calc_app/solver.py
+calc_app/variables.py
+seaus_calc.egg-info/PKG-INFO
+seaus_calc.egg-info/SOURCES.txt
+seaus_calc.egg-info/dependency_links.txt
+seaus_calc.egg-info/entry_points.txt
+seaus_calc.egg-info/requires.txt
+seaus_calc.egg-info/top_level.txt
