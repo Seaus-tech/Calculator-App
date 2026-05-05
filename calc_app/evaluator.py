@@ -20,6 +20,10 @@ def calc(expr: str):
         'pi': math.pi,
         'e': math.e,
         'Fraction': Fraction,
+        'GCF': math.gcd,
+        'LCM': math.lcm,
+        'gcf': math.gcd,
+        'lcm': math.lcm,
     }
 
     for name, value in variables.items():
