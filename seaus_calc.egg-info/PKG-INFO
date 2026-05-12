@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: seaus-calc
-Version: 1.0.0
+Version: 1.0.2
 Summary: A natural-language, fraction-aware, meme-enabled calculator.
 Requires-Python: >=3.10
 Requires-Dist: setuptools
