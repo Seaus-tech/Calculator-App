@@ -1,10 +1,10 @@
 # 🧮 Calculator App
 
-<p align="center>
+<p align="center">
   <strong>A natural-language, fraction-aware, meme-enabled calculator for the modern developer.</strong>
 </p>
 
-<p align="center>
+<p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/Package-pipx-orange?style=flat-square&logo=pypi" alt="pipx" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
@@ -100,6 +100,6 @@ open "https://forms.cloud.microsoft/r/GYXq1H83eU"
 
 ---
 
-<p align="center>
+<p align="center">
   <sub>© 2026 Seaus Tech. All rights reserved.</sub>
 </p>
