@@ -4,61 +4,86 @@
   <strong>A natural-language, fraction-aware, meme-enabled calculator for the modern developer.</strong>
 </p>
 
-<p align="center>
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python" alt="Python" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Package-pipx-orange?style=flat-square&logo=pypi" alt="pipx" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
 </p>
 
 ---
 
-## 🌌 Overview
+## 📖 Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Example Commands](#example-commands)
+- [Development](#development)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
 
 Calculator App is a unique calculator that understands natural language input, handles fractions intelligently, and adds a bit of personality with meme responses. It's designed for developers who want a fun yet powerful calculation tool.
 
----
+## Features
 
-## ✨ Features
+- 🗣️ **Natural Language** - Type calculations in plain English
+- 🔢 **Fraction Support** - Handle complex fractional arithmetic
+- 😂 **Meme Responses** - Fun, personality-filled output
+- ⚡ **Fast Execution** - Built with Python for speed and reliability
+- 📊 **Word Problems** - Solve complex word problems with ease
+- 🔄 **Unit Conversion** - Convert between different units seamlessly
 
-- 🗣️ **Natural Language** — Type calculations in plain English
-- 🔢 **Fraction Support** — Handle complex fractional arithmetic
-- 😂 **Meme Responses** — Fun, personality-filled output
-- ⚡ **Fast Execution** — Built with Python for speed and reliability
+## Screenshots
 
----
+*(Coming soon)*
 
-## 📦 Requirements
+## Installation
 
-- Python 3.8+
-- pipx (for installation)
-
----
-
-## 🚀 Installation
+### Via pipx (Recommended)
 
 ```bash
 pipx install seaus-calc
 ```
 
----
+### From Source
 
-## 🎯 Usage
+```bash
+# Clone the repository
+git clone https://github.com/Seaus-tech/Calculator-app.git
+cd Calculator-app
+
+# Install in development mode
+pip install -e .
+```
+
+## Usage
 
 ```bash
 calc-app
 ```
 
-### Example Commands
+Or use it directly:
+
+```bash
+calc "what is 1/3 plus 1/4?"
+```
+
+## Example Commands
 
 ```
 "what is 1/3 plus 1/4?"
 "calculate the area of a circle with radius 5"
 "convert 100 fahrenheit to celsius"
+"solve: 2x + 5 = 15"
+"what is the derivative of x^2 + 3x?"
 ```
 
----
-
-## 🛠️ Development
+## Development
 
 ### Setup
 
@@ -66,6 +91,10 @@ calc-app
 # Clone the repository
 git clone https://github.com/Seaus-tech/Calculator-app.git
 cd Calculator-app
+
+# Create a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install in development mode
 pip install -e .
@@ -77,29 +106,23 @@ pip install -e .
 calc-app
 ```
 
----
+## Roadmap
 
-## 📂 Repository Structure
+- [ ] Graphing capabilities
+- [ ] Advanced calculus functions
+- [ ] Voice input support
+- [ ] Mobile app version
 
-```
-Calculator-app/
-├── src/               # Source code
-├── pyproject.toml     # Package configuration
-└── README.md          # This file
-```
+## Contributing
 
----
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📣 Stay Updated
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Sign up for the Calculator App dev program to get updates on new releases, features, and exclusive content!
+## License
 
-```bash
-open "https://forms.cloud.microsoft/r/GYXq1H83eU"
-```
-
----
-
-<p align="center>
-  <sub>© 2026 Seaus Tech. All rights reserved.</sub>
-</p>
+© 2026 Seaus Tech. All rights reserved.
